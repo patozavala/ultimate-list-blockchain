@@ -1,6 +1,7 @@
 # How to Contribute
 Please help me to make this list better. Your pull requests and suggestions are welcome.
-[how to make a pull request]
+
+If you want to improve the list:
 
 1. Start individual issue for each discussion topic with suggestion on changing structure of categories etc.
 2. Make individual pull requests for each atomic change.
@@ -12,3 +13,4 @@ Please help me to make this list better. Your pull requests and suggestions are 
 
 1. To make a pull request with a list of resources in Spanish.
 2. To make a pull request with a list of crypto Podcasts.
+3. Propose a list with resources about DAOs.
