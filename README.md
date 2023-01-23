@@ -1,8 +1,8 @@
-# The Orange Pill of Crypto
+# The Ultimate List to Learn Blockchain Technology
 
 ![A collection of AI generated images for this list](/images/banner.svg "A collection of AI generated images for this List")
 
-Welcome to [the orange pill](https://www.patozavala.com/the-ultimate-list-to-learning-blockchain-technology/), a curated list of resources that will take you on a journey of discovery and understanding of the world of Blockchain technology and Decentralized Finance (DeFi). The contents of this list, like the famous "red pill" and "blue pill" metaphor, will give you the opportunity to see beyond the surface and dive into the depths of the technology. From books and papers, to blogs and movies, this list has been carefully selected to provide a comprehensive overview of the key concepts, benefits, and use cases of Blockchain and DeFi. Get ready to expand your knowledge and open your mind to the endless possibilities that crypto have to offer. The "orange pill" is your gateway to a new crypto reality, are you ready to take it?
+Welcome to [the Ultimate List to learn Blockchain Technology](https://www.patozavala.com/the-ultimate-list-to-learning-blockchain-technology/), a curated list of resources that will take you on a journey of discovery and understanding of the world of Blockchain technology and Decentralized Finance (DeFi). The contents of this list, like the famous "red pill" and "blue pill" metaphor, will give you the opportunity to see beyond the surface and dive into the depths of the technology. From books and papers, to blogs and movies, this list has been carefully selected to provide a comprehensive overview of the key concepts, benefits, and use cases of Blockchain and DeFi. Get ready to expand your knowledge and open your mind to the endless possibilities that crypto have to offer. The "orange pill" is your gateway to a new crypto reality, are you ready to take it?
 
 
 
