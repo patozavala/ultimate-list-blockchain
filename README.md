@@ -42,7 +42,7 @@ Now that you have a brief explanation of Bitcoin, I hope you enjoy reading... ma
 - 📝 [CypherPunks and the origins of Bitcoin](https://nakamoto.com/the-cypherpunks/) by Haseeb Qureshi.
 
 - 📽️ 💡 [The Bitcoin Whitepaper | Fully Explained (With Animations!)](https://www.youtube.com/watch?v=NoqNhWnjE1Q).
-- 
+
 - 📚 [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) by Andreas M. Antonopoulos. 
 
 - 📃 💡 [Bitcoin's Whitepaper](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto.
